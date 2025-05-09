@@ -1,4 +1,13 @@
 ## Hi there 👋
+<table>
+<tr>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marco-ant-sm&theme=dark&hide=blade,jupyter%20notebook,scss,html,css&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
 
 <!--
 **marco-ant-sm/marco-ant-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
